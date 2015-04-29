@@ -1,0 +1,36 @@
+{
+  "name": "churn",
+  "version": "0.0.0",
+  "description": "Asset pipeline for 99% use case",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shaneeb/churn.git"
+  },
+  "keywords": [
+    "asset",
+    "assets",
+    "asset-manager",
+    "asset-management",
+    "asset-pipeline",
+    "minification",
+    "minifier",
+    "minify",
+    "bundling",
+    "bundler",
+    "concatenation",
+    "concat",
+    "revision",
+    "build",
+    "compile"
+  ],
+  "author": "Shaneeb Kamran <me@shaneeb.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaneeb/churn/issues"
+  },
+  "homepage": "https://github.com/shaneeb/churn"
+}
